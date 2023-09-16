@@ -1,1 +1,1 @@
-Ping Pong Game 
+A simple Ping Pong Game made with Python
